@@ -1,0 +1,1 @@
+levelText = "But that was ok, he knew with enough pushing";

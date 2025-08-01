@@ -1,0 +1,1 @@
+levelText = "Unfortunately, the world around him was abit... stubborn";

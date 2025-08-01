@@ -1,0 +1,1 @@
+levelText = "All he wanted to do, was go to bed, by moving as little as possible";
