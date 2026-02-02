@@ -25,7 +25,8 @@ var _sml = menu_level;
 
 			//start game
 			case 0:
-				room_goto_next();
+				//room_goto_next();
+				room_goto(Room_Level_Select);
 				break;
 				
 			//Controls
