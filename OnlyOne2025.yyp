@@ -43,6 +43,8 @@
   "resources":[
     {"id":{"name":"oBacktoMain","path":"objects/oBacktoMain/oBacktoMain.yy",},},
     {"id":{"name":"oBed","path":"objects/oBed/oBed.yy",},},
+    {"id":{"name":"Object_Pause","path":"objects/Object_Pause/Object_Pause.yy",},},
+    {"id":{"name":"Object_PauseMenu","path":"objects/Object_PauseMenu/Object_PauseMenu.yy",},},
     {"id":{"name":"Object_Room_Warp","path":"objects/Object_Room_Warp/Object_Room_Warp.yy",},},
     {"id":{"name":"Object_Warp","path":"objects/Object_Warp/Object_Warp.yy",},},
     {"id":{"name":"oButton","path":"objects/oButton/oButton.yy",},},
@@ -80,6 +82,7 @@
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sPrimaryBackground","path":"sprites/sPrimaryBackground/sPrimaryBackground.yy",},},
     {"id":{"name":"Sprite_Font","path":"sprites/Sprite_Font/Sprite_Font.yy",},},
+    {"id":{"name":"Sprite_Menu_1","path":"sprites/Sprite_Menu_1/Sprite_Menu_1.yy",},},
     {"id":{"name":"Sprite_Room_Transition_1","path":"sprites/Sprite_Room_Transition_1/Sprite_Room_Transition_1.yy",},},
     {"id":{"name":"Sprite_Room_Warp","path":"sprites/Sprite_Room_Warp/Sprite_Room_Warp.yy",},},
     {"id":{"name":"sSemiSolidMovePlat","path":"sprites/sSemiSolidMovePlat/sSemiSolidMovePlat.yy",},},
